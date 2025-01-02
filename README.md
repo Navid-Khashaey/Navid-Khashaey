@@ -2,12 +2,21 @@
 
 Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on **[Your Project Name](link-to-your-project-repo)**.
-- 🌱 I’m learning **[Languages/Technologies you're learning]**.
-- 📫 How to reach me: **[Personal email nkhashaey@gmail.com University Email Navid.Khashaeyt@mail.bcu.ac.uk or LinkedIn profile]**.
+# Navid Khashaey 
+3rd Year Computer Science Student at Birmingham City University
 
-- My portfolio website can be accessed via www.navid.khashaey.com
----
+## Open Source Projects
+- [Portfolio](https://github.com/navidkhashaey/Website-Portfolio), My own website portfolio showing my projects
+- [Car Efficency AI Model](https://github.com/jackdevey/CarEconomy-AI-Model), Creating an AI Model using existing Algorithms Random forest and Support Vector Machine
+- [Connect 4](https://github.com/jackdevey/boards), a Connect 4 game in Python
+
+
+
+### Profiles
+- [GitHub](https://github.com/navidkhashaey/)
+- [LinkedIn](https://linkedin.com/in/navidkhashaey/)
+- [Personal email nkhashaey@gmail.com ]
+- [University Email navid.khashaey@mail.bcu.ac.uk]
 
 ### 🛠️ Technologies & Tools
 - Python, Java,
